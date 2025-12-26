@@ -14,6 +14,7 @@ if PROJECT_ROOT not in sys.path:
 
 
 from sentence_transformers import SentenceTransformer
+from agents.summarizer_agent import summarize
 from agents.chunker_agent import semantic_chunk
 from agents.reranker_agent import rerank
 from agents.reasoning_agent import reason
@@ -141,8 +142,14 @@ if st.button("🚀 Run QA Pipeline"):
             answer = reason(context, query)
 
     # ------------------ OUTPUT ------------------
-    st.subheader("🧠 Answer")
-    st.success(answer)
+    st.subheader("🧠 Answer (Summary)")
+
+    summary = summarize(answer, max_words=80)
+    st.success(summary)
+
+    with st.expander("🔎 Show full answer"):
+        st.write(answer)
+
 
     if refined:
         st.warning("Answer was refined due to low confidence.")

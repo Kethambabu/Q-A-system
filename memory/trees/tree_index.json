@@ -1,0 +1,59 @@
+{
+  "title": "Document Structure",
+  "summary": "This document contains various segments related to Explainable AI, Weed Detection, and arXivLabs.",
+  "children": [
+    {
+      "title": "Explainable AI",
+      "summary": "This section discusses Explainable AI for Diabetic Retinopathy Detection.",
+      "children": [],
+      "has_numerical_data": true,
+      "node_id": "root.1",
+      "content": "[2511.16294] Explainable AI for Diabetic Retinopathy Detection Using Deep Learning with Attention Mechanisms and Fuzzy Logic-Based Interpretability\n\nSkip to main content\n\nLearn about arXiv becoming an independent nonprofit.\n\nWe gratefully acknowledge support from the Simons Foundation,  member institutions , and all contributors. \n Donate\n\n>   cs   >  arXiv:2511.16294\n\nHelp  |  Advanced Search\n\nAll fields \n Title \n Author \n Abstract \n Comments \n Journal reference \n ACM classification \n MSC classification \n Report number \n arXiv identifier \n DOI \n ORCID \n arXiv author ID \n Help pages \n Full text\n\nSearch\n\nopen search\n\nGO\n\nopen navigation menu\n\nquick links\n\nLogin \n Help Pages \n About\n\nComputer Science > Computer Vision and Pattern Recognition\n\narXiv:2511.16294  (cs)\n\n[Submitted on 20 Nov 2025] \n Title: Explainable AI for Diabetic Retinopathy Detection Using Deep Learning with Attention Mechanisms and Fuzzy Logic-Based Interpretability \n Authors: Abishek Karthik ,  Pandiyaraju V ,  Sreya Mynampati   View a PDF of the paper titled Explainable AI for Diabetic Retinopathy Detection Using Deep Learning with Attention Mechanisms and Fuzzy Logic-Based Interpretability, by Abishek Karthik and 2 other authors \n View PDF"
+    },
+    {
+      "title": "Weed Detection and Results",
+      "summary": "This section presents the performance of the Weed Detection Model, including numerical results.",
+      "children": [
+        {
+          "title": "Weed Detection Model Performance",
+          "summary": "The proposed model achieved 99.33% accuracy, precision, recall, and F1-score on multi-benchmark datasets.",
+          "children": [],
+          "has_numerical_data": true,
+          "node_id": "root.2.1",
+          "content": "Abstract: The task of weed detection is an essential element of precision agriculture since accurate species identification allows a farmer to selectively apply herbicides and fits into sustainable agriculture crop management. This paper proposes a hybrid deep learning framework recipe for weed detection that utilizes Convolutional Neural Networks (CNNs), Vision Transformers (ViTs), and Graph Neural Networks (GNNs) to build robustness to multiple field conditions. A Generative Adversarial Network (GAN)-based augmentation method was imposed to balance class distributions and better generalize the model. Further, a self-supervised contrastive pre-training method helps to learn more features from limited annotated data. Experimental results yield superior results with 99.33% accuracy, precision, recall, and F1-score on multi-benchmark datasets. The proposed model architecture enables local, global, and relational feature representations and offers high interpretability and adaptability. Practically, the framework allows real-time, efficient deployment of edge devices for automated weed detecting, reducing over-reliance on herbicides and providing scalable, sustainable precision-farming options.\n\nSubjects:\n\nComputer Vision and Pattern Recognition (cs.CV)\n\nCite as: \n arXiv:2511.16294  [cs.CV]\n\n(or  \n arXiv:2511.16294v1  [cs.CV]  for this version)\n\nhttps://doi.org/10.48550/arXiv.2511.16294\n\nFocus to learn more\n\narXiv-issued DOI via DataCite\n\nSubmission history  From: Abishek Karthik [ view email ]         [v1] \n        Thu, 20 Nov 2025 12:17:00 UTC (620 KB)\n\nFull-text links: \n Access Paper:\n\nView a PDF of the paper titled Explainable AI for Diabetic Retinopathy Detection Using Deep Learning with Attention Mechanisms and Fuzzy Logic-Based Interpretability, by Abishek Karthik and 2 other authors View PDF\n\nview license\n\nCurrent browse context:  cs.CV\n\n< prev\n\n|     \n next >\n\nnew \n  |  \n recent \n  |  2025-11\n\nChange to browse by:\n\ncs\n\nReferences & Citations"
+        }
+      ],
+      "has_numerical_data": true,
+      "node_id": "root.2",
+      "content": ""
+    },
+    {
+      "title": "arXivLabs and Operational Status",
+      "summary": "This section discusses arXivLabs features and tools, as well as its operational status, with some sections containing numerical data.",
+      "children": [
+        {
+          "title": "arXivLabs Features and Tools",
+          "summary": "arXivLabs features 14 tools, including CORE Recommender, Influence Flower, and Hugging Face Spaces, with no numerical data provided.",
+          "children": [],
+          "has_numerical_data": false,
+          "node_id": "root.3.1",
+          "content": "NASA ADS Google Scholar \n Semantic Scholar\n\nexport BibTeX citation \n Loading...\n\nBibTeX formatted citation \n ×\n\nloading...\n\nData provided by:\n\nBookmark\n\nBibliographic Tools\n\nBibliographic and Citation Tools\n\nBibliographic Explorer Toggle\n\nBibliographic Explorer   ( What is the Explorer? )\n\nConnected Papers Toggle\n\nConnected Papers   ( What is Connected Papers? )\n\nLitmaps Toggle\n\nLitmaps   ( What is Litmaps? )\n\nscite.ai Toggle\n\nscite Smart Citations   ( What are Smart Citations? )\n\nCode, Data, Media\n\nCode, Data and Media Associated with this Article\n\nalphaXiv Toggle\n\nalphaXiv   ( What is alphaXiv? )\n\nLinks to Code Toggle\n\nCatalyzeX Code Finder for Papers   ( What is CatalyzeX? )\n\nDagsHub Toggle\n\nDagsHub   ( What is DagsHub? )\n\nGotitPub Toggle\n\nGotit.pub   ( What is GotitPub? )\n\nHuggingface Toggle\n\nHugging Face   ( What is Huggingface? )\n\nLinks to Code Toggle\n\nPapers with Code   ( What is Papers with Code? )\n\nScienceCast Toggle\n\nScienceCast   ( What is ScienceCast? )\n\nDemos\n\nDemos\n\nReplicate Toggle\n\nReplicate   ( What is Replicate? )\n\nSpaces Toggle\n\nHugging Face Spaces   ( What is Spaces? )\n\nSpaces Toggle\n\nTXYZ.AI   ( What is TXYZ.AI? )\n\nRelated Papers\n\nRecommenders and Search Tools\n\nLink to Influence Flower\n\nInfluence Flower   ( What are Influence Flowers? )\n\nCore recommender toggle\n\nCORE Recommender   ( What is CORE? )\n\nAuthor \n Venue \n Institution \n Topic\n\nAbout arXivLabs\n\narXivLabs: experimental projects with community collaborators \n arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. \n Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. \n Have an idea for a project that will add value for arXiv's community?  Learn more about arXivLabs ."
+        },
+        {
+          "title": "arXiv Operational Status",
+          "summary": "No numerical data is present in this segment.",
+          "children": [],
+          "has_numerical_data": false,
+          "node_id": "root.3.2",
+          "content": "Which authors of this paper are endorsers?  |\n     Disable MathJax  ( What is MathJax? )\n\nAbout \n Help\n\ncontact arXiv Click here to contact arXiv \n  Contact\n\nsubscribe to arXiv mailings Click here to subscribe \n  Subscribe\n\nCopyright \n Privacy Policy\n\nWeb Accessibility Assistance\n\narXiv Operational Status"
+        }
+      ],
+      "has_numerical_data": false,
+      "node_id": "root.3",
+      "content": ""
+    }
+  ],
+  "has_numerical_data": true,
+  "node_id": "root",
+  "content": ""
+}
